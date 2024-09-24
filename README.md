@@ -1,7 +1,5 @@
 # Students CRUD System 📝
 
-![Node JS & React JS CRUD](./client/src/assets/project-banner.png)
-
 # Table of contents
 
 1. Overview
